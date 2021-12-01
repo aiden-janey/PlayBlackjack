@@ -10,8 +10,9 @@ package ca.sheridancollege.project;
  * @author Aiden Janey, 2020
  * @author Christina Kwamie, 2020
  */
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import ca.sheridancollege.project.Card;
 
 public class Dealer 
 {
